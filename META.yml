@@ -21,4 +21,4 @@ no_index:
     - lib/Devel
 requires:
   perl: '5.008001'
-version: '0.01'
+version: '0.02'
