@@ -1,0 +1,5 @@
+0.01  2014-12-22
+  * Converted to Inline::Module
+  * Original git://git.shadowcat.co.uk/p5sagit/Devel-GlobalDestruction-XS.git
+  * https://metacpan.org/release/Devel-GlobalDestruction-XS
+  * Release as Alt::Devel::GlobalDestruction::XS::Inline
