@@ -12,7 +12,6 @@ t/04_phases.t
 t/05_thread_clone.t
 META.yml                                 Module YAML meta-data (added by MakeMaker)
 META.json                                Module JSON meta-data (added by MakeMaker)
-lib/Devel/GlobalDestruction/XS/Inline.pm
 inc/Devel/GlobalDestruction/XS/Inline.pm
 inc/Inline.pm
 inc/Inline/denter.pm
