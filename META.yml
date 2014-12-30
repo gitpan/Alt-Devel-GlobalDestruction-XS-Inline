@@ -1,5 +1,5 @@
 ---
-abstract: unknown
+abstract: 'Alternate Faster implementation of the Devel::GlobalDestruction API (using Inline::Module)'
 author:
   - 'Ingy döt Net <ingy@cpan.org>'
 build_requires:
@@ -21,4 +21,4 @@ no_index:
     - lib/Devel
 requires:
   perl: '5.008001'
-version: '0.05'
+version: '0.06'

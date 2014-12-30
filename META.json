@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "Alternate Faster implementation of the Devel::GlobalDestruction API (using Inline::Module)",
    "author" : [
       "Ingy döt Net <ingy@cpan.org>"
    ],
@@ -44,5 +44,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.05"
+   "version" : "0.06"
 }
